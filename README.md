@@ -1,4 +1,4 @@
-# Things I Have Learner at Bloc.io
+# Things I Have Learned at Bloc.io
 1. HTML - Table, Tags, Medis, Forms, Layout, Accessibility
 2. CSS - Properties and values, Selectors (tag, ID, class), combinators
 3. CSS Frameworks - Material, Foundation, Bootstrap
